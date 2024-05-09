@@ -1,4 +1,4 @@
-const addNoteScreen = require("../../screenobjects/android/add-note.screen.spec");
+const addNoteScreen = require("../../screenobjects/android/food-order.spec");
 const registerOTP = require("/Users/earchamrong/Desktop/automationbro/test/screenobjects/android/register-otp-screen.spec.js")
 
 describe("registerOTP", () => {

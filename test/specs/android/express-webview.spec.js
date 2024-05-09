@@ -1,4 +1,4 @@
-const addNoteScreen = require("../../screenobjects/android/add-note.screen.spec");
+const addNoteScreen = require("../../screenobjects/android/food-order.spec");
 const WebView = require ("/Users/earchamrong/Desktop/automationbro/test/screenobjects/android/webview.spec.js");
 
 describe("WebView", () => {

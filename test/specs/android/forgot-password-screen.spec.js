@@ -1,4 +1,4 @@
-const addNoteScreen = require("../../screenobjects/android/add-note.screen.spec");
+const addNoteScreen = require("../../screenobjects/android/food-order.spec");
 const forgotPasswordUsingPhone = require("../../screenobjects/android/forgot-password-screen.spec");
 describe("forgotPassword", () => {
     it("Login with new password", async () => {
