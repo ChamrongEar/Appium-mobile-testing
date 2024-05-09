@@ -1,4 +1,4 @@
-class AddNoteScreen {
+class foodOrder {
     get NHAM24APP() {
         // find element by accessibility id
         return $('~NHAM24-DEV');
@@ -61,4 +61,4 @@ class AddNoteScreen {
     
 }
 
-module.exports = new AddNoteScreen();
+module.exports = new foodOrder();
